@@ -1,0 +1,165 @@
+body{
+    background-color: rgba(173, 173, 173, 0.301);
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-left: 15px;
+}
+
+#title{
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;  
+    position: relative; 
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 4rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    font-family: 'Mont 0-serrat', sans-serif;
+    font-size: 3rem;
+    line-height: 2;  
+    font-weight: 700; 
+    /* margin:   */
+}
+
+.card-text{
+    font-family: 'MonteCarlo', cursive;
+    color: gray;
+    font-size: 2rem;
+}
+
+.sec-head{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    color: black;
+    padding-top: 0;
+}
+
+.home{
+    padding: 70px 320px;
+    font-family: 'Lato', sans-serif;
+    color: rgb(255, 146, 146);
+    /* font-size: 1.2rem; */
+}
+
+.container{
+    padding: 70px 150px;
+    font-family: 'Lato', sans-serif;
+    /* font-size: 1.2rem; */
+}
+
+.main_heading{
+    padding: 50px 0;
+    color: white;
+    font-size: 3.5rem;
+}
+
+.rotate{
+    transform: rotate(20deg);
+    width:55%;
+    padding-top: 30px;
+}
+
+nav{
+    padding: 5px;
+}
+
+.nav-item{
+    padding-left:20px;
+    padding-right:20px;
+    font-size: 1.1rem;
+}
+
+.btn{
+    margin-right: 20px;
+}
+
+/* Services */
+
+#services{
+    padding: 4% 10% 7% 10%;
+    background-color: cornsilk;
+}
+
+.card{
+    margin: 15px 15px;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+}
+
+.card-title{
+    font-family: 'Lobster', cursive;
+}
+
+.services-box{
+    text-align: center;
+    padding-right: 0px;
+    height: 592px;
+    width: 332px;
+    margin-left: 60px;
+}
+
+.icon{
+    margin-bottom: 10px;
+    color:rgb(250, 110, 110);
+}
+.icon:hover{
+    color: rgb(250, 133, 178);
+    }
+
+/* Testimonials Section */
+
+#Gallery{
+    text-align: center;
+    color: #fff;
+    margin: 0px 100px 100px 100px;
+}
+
+.Events{
+    width: 100%;
+    height: 800px;
+}
+
+/* Pricing section */
+
+#about{
+    background-color: rgb(180, 180, 180);
+    padding: 50px 100px;
+    position: relative;
+}
+
+.about-para{
+    text-align: center;
+}
+
+.points{
+    /* text-align: center; */
+    padding-left: 370px;
+}
+.person-name{
+    padding: 20px 5px;
+    font-weight: bold;
+}
+
+
+/* Footer */
+
+#footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 19px 20px;
+}
